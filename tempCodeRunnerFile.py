@@ -1,0 +1,1 @@
+pygame.draw.circle(screen,(255,255,0),bot.goal,5)
